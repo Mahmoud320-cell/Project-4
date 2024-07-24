@@ -3,6 +3,8 @@ Val Do not accept modification
 
 
 fun main (){
+
+
     val firstName2:String = "Ali"
     //firstName2 = "Ahmed"
     println(firstName2)
